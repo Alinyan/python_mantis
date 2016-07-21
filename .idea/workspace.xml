@@ -2,849 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="597985d8-b7ca-4edc-a5ab-8144fc2a1d1b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/t32.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/t64.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/w32.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/w64.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/webdriver.xpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/x86/x_ignore_nofocus.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/cli-32.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/cli-64.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/cli.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/gui-32.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/gui-64.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/gui.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test-1.0-py2.py3-none-win32.whl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/easy_install-2.7.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/easy_install.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/pip.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/pip2.7.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/pip2.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/py.test-2.7.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/py.test.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/python.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/pythonw.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/wheel.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/selenium/webdriver/firefox/x86/x_ignore_nofocus.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/python_mantis.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conftest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/Python-ast.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/Python.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/abstract.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/asdl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/ast.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/bitset.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/boolobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/bufferobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/bytearrayobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/bytes_methods.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/bytesobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/cStringIO.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/cellobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/ceval.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/classobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/cobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/code.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/codecs.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/compile.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/complexobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/datetime.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/descrobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/dictobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/dtoa.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/enumobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/errcode.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/eval.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/fileobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/floatobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/frameobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/funcobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/genobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/graminit.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/grammar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/import.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/intobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/intrcheck.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/iterobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/listobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/longintrepr.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/longobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/marshal.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/memoryobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/metagrammar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/methodobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/modsupport.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/moduleobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/node.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/object.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/objimpl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/opcode.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/osdefs.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/parsetok.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/patchlevel.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pgen.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pgenheaders.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/py_curses.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pyarena.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pycapsule.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pyconfig.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pyctype.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pydebug.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pyerrors.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pyexpat.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pyfpe.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pygetopt.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pymacconfig.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pymactoolbox.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pymath.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pymem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pyport.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pystate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pystrcmp.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pystrtod.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pythonrun.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/pythread.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/rangeobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/setobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/sliceobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/stringobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/structmember.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/structseq.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/symtable.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/sysmodule.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/timefuncs.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/token.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/traceback.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/tupleobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/ucnhash.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/unicodeobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/warnings.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Include/weakrefobject.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/UserDict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/_abcoll.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/_weakrefset.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/abc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/codecs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/copy_reg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/distutils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/distutils/distutils.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/aliases.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/ascii.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/base64_codec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/big5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/big5hkscs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/bz2_codec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/charmap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp037.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1006.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1026.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1140.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1250.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1251.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1252.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1253.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1254.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1255.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1256.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1257.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp1258.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp424.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp437.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp500.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp720.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp737.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp775.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp850.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp852.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp855.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp856.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp857.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp858.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp860.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp861.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp862.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp863.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp864.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp865.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp866.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp869.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp874.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp875.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp932.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp949.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/cp950.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/euc_jis_2004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/euc_jisx0213.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/euc_jp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/euc_kr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/gb18030.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/gb2312.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/gbk.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/hex_codec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/hp_roman8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/hz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/idna.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso2022_jp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso2022_jp_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso2022_jp_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso2022_jp_2004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso2022_jp_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso2022_jp_ext.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso2022_kr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_10.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_11.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_13.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_14.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_15.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_16.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/iso8859_9.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/johab.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/koi8_r.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/koi8_u.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/latin_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_arabic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_centeuro.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_croatian.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_cyrillic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_farsi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_greek.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_iceland.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_latin2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_roman.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_romanian.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mac_turkish.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/mbcs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/palmos.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/ptcp154.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/punycode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/quopri_codec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/raw_unicode_escape.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/rot_13.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/shift_jis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/shift_jis_2004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/shift_jisx0213.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/string_escape.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/tis_620.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/undefined.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/unicode_escape.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/unicode_internal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_16.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_16_be.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_16_le.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_32.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_32_be.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_32_le.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/utf_8_sig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/uu_codec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/encodings/zlib_codec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/fnmatch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/genericpath.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/linecache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/locale.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/no-global-site-packages.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/ntpath.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/orig-prefix.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/os.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/posixpath.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/re.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_argcomplete.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_code/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_code/_py2traceback.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_code/code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_code/source.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_pluggy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/assertion/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/assertion/reinterpret.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/assertion/rewrite.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/assertion/util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/cacheprovider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/capture.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/doctest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/genscript.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/helpconfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/hookspec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/junitxml.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/mark.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/monkeypatch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/nose.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/pastebin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/pdb.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/pytester.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/python.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/recwarn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/resultlog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/runner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/skipping.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/standalonetemplate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/terminal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/tmpdir.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/unittest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/vendored_packages/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/vendored_packages/pluggy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.3.7.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.3.7.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.3.7.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.3.7.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.3.7.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.3.7.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.3.7.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/ansi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/ansitowin32.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/initialise.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/win32.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/winterm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/easy_install.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle-0.9.3.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle-0.9.3.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle-0.9.3.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle-0.9.3.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle-0.9.3.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle-0.9.3.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle-0.9.3.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/backend.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/ext/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/ext/numpy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/handlers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/pickler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/tags.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/unpickler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/jsonpickle/version.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-8.1.2.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-8.1.2.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-8.1.2.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-8.1.2.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-8.1.2.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-8.1.2.dist-info/entry_points.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-8.1.2.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-8.1.2.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/colorama/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/colorama/ansi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/colorama/ansitowin32.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/colorama/initialise.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/colorama/win32.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/colorama/winterm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/_backport/misc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/database.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/locators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/manifest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/markers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/metadata.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/resources.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/scripts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/version.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/distlib/wheel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/constants.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/filters/_base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/filters/lint.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/ihatexml.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/inputstream.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/sanitizer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/serializer/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/serializer/htmlserializer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/tokenizer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treebuilders/_base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treewalkers/_base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshistream.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treewalkers/lxmletree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/treewalkers/pulldom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/trie/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/trie/_base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/trie/datrie.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/trie/py.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/html5lib/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/ipaddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/lockfile/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/lockfile/linklockfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/lockfile/pidlockfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/__about__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/_compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/_structures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/markers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/requirements.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/specifiers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/packaging/version.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/progress/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/progress/bar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/progress/counter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/progress/helpers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/progress/spinner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/pyparsing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/re-vendor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/adapters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/api.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/auth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/cacert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/certs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/cookies.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/hooks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/sessions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/status_codes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/structures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/requests/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/retrying.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/_vendor/six.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/basecommand.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/baseparser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/cmdoptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/completion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/download.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/freeze.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/hash.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/help.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/install.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/search.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/show.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/uninstall.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/commands/wheel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/compat/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/compat/dictconfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/compat/ordereddict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/download.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/locations.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/models/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/models/index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/operations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/operations/freeze.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/pep425tags.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/req/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/req/req_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/req/req_install.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/req/req_set.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/req/req_uninstall.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/status_codes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/appdirs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/build.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/deprecation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/encoding.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/filesystem.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/hashes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/logging.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/outdated.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/setuptools_build.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/utils/ui.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/vcs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/vcs/bazaar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/vcs/git.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/vcs/mercurial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/vcs/subversion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip/wheel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/_vendor/six.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pkg_resources/extern/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py-1.4.31.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py-1.4.31.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py-1.4.31.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py-1.4.31.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py-1.4.31.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py-1.4.31.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py-1.4.31.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/__metainfo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_apipkg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_builtin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_code/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_code/_assertionnew.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_code/_assertionold.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_code/_py2traceback.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_code/assertion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_code/code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_code/source.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_error.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_iniconfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_io/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_io/capture.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_io/saferepr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_io/terminalwriter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_log/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_log/log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_log/warning.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_path/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_path/cacheutil.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_path/common.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_path/local.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_path/svnurl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_path/svnwc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_process/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_process/cmdexec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_process/forkedfunc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_process/killproc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_std.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/_xmlgen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/py/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-2.9.2.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-2.9.2.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-2.9.2.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-2.9.2.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-2.9.2.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-2.9.2.dist-info/entry_points.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-2.9.2.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-2.9.2.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium-2.53.6.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium-2.53.6.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium-2.53.6.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium-2.53.6.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium-2.53.6.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium-2.53.6.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium-2.53.6.dist-info/pbr.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium-2.53.6.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/common/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/common/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/selenium.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/android/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/android/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/blackberry/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/blackberry/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/chrome/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/chrome/options.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/chrome/remote_connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/chrome/service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/action_chains.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/alert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/by.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/desired_capabilities.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/html5/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/html5/application_cache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/keys.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/proxy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/touch_actions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/common/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/edge/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/edge/options.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/edge/service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/edge/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/extension_connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/firefox_binary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/firefox_profile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/options.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/remote_connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/firefox/webdriver_prefs.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/ie/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/ie/service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/ie/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/opera/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/opera/options.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/opera/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/phantomjs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/phantomjs/service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/phantomjs/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/command.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/file_detector.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/mobile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/remote_connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/switch_to.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/remote/webelement.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/safari/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/safari/service.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/safari/webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/abstract_event_listener.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/color.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/event_firing_webdriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/events.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/select.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/ui.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/selenium/webdriver/support/wait.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/dependency_links.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/entry_points.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-24.2.0.dist-info/zip-safe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/archive_util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/alias.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/bdist_egg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/bdist_rpm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/bdist_wininst.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/build_ext.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/build_py.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/develop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/easy_install.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/egg_info.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/install.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/install_egg_info.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/install_lib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/install_scripts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/launcher manifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/register.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/rotate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/saveopts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/sdist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/setopt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/upload.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/command/upload_docs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/depends.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/dist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/extension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/extern/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/launch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/lib2to3_ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/msvc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/package_index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/py26compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/py27compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/py31compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/sandbox.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/script (dev).tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/script.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/site-patch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/ssl_support.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/unicode_utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/version.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/windows_support.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/entry_points.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.29.0.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/archive.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/bdist_wheel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/egg2wheel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/eggnames.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/install.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/metadata.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/paths.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/pep425tags.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/pkginfo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/signatures/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/signatures/djbec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/signatures/ed25519py.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/signatures/keys.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/complex-dist/complexdist/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/complex-dist/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/headers.dist/header.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/headers.dist/headersdist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/headers.dist/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/pydist-schema.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/simple.dist/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/simple.dist/simpledist/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_basic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_install.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_keys.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_paths.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_ranking.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_signatures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_tagopt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_tool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/test/test_wheelfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/tool/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel/wininst2wheel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/site.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/sre.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/sre_compile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/sre_constants.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/sre_parse.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/stat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/types.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Lib/warnings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/activate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/activate.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/activate.ps1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/activate_this.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/Scripts/deactivate.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/pip-selfcheck.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fixture/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fixture/application.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fixture/navigation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fixture/page.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fixture/project.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fixture/session.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generator/project.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/project.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.cache/v/cache/lastfailed" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/projects.json" afterPath="$PROJECT_DIR$/data/projects.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generator/project.py" afterPath="$PROJECT_DIR$/generator/project.py" />
     </list>
     <ignored path="python_mantis.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -875,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -887,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="project.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generator/project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="521">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -1006,6 +166,7 @@
         <option value="$PROJECT_DIR$/generator/group.py" />
         <option value="$PROJECT_DIR$/test/tests.py" />
         <option value="$PROJECT_DIR$/fixture/project.py" />
+        <option value="$PROJECT_DIR$/generator/project.py" />
       </list>
     </option>
   </component>
@@ -1139,31 +300,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_training" />
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_delete_project">
-    <configuration default="false" name="py.test in test_login" type="tests" factoryName="py.test" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_mantis" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/test/test_login.py" />
-      <option name="keywords" value="test_login" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="true" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in tests.py">
     <configuration default="false" name="py.test in test_add_project" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1186,23 +323,6 @@
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="true" />
-      <method />
-    </configuration>
-    <configuration default="false" name="group" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_mantis" />
-      <option name="SCRIPT_NAME" value="C:\Training\python_mantis\generator\project.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="project" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -1244,6 +364,54 @@
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_mantis" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in tests.py" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_mantis" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test/tests.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -1381,19 +549,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_login" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_add_project" />
-      <item index="2" class="java.lang.String" itemvalue="Python.group" />
-      <item index="3" class="java.lang.String" itemvalue="Python.project" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_delete_project" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_add_project" />
+      <item index="1" class="java.lang.String" itemvalue="Python.project" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_delete_project" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in tests.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_delete_project" />
-        <item index="1" class="java.lang.String" itemvalue="Python.project" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_add_project" />
-        <item index="3" class="java.lang.String" itemvalue="Python.group" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_login" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in tests.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.project" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_add_project" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_delete_project" />
       </list>
     </recent_temporary>
   </component>
@@ -1411,11 +579,8 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_add_project - 2016.07.21 at 20h 57m 32s.xml">
-      <configuration name="py.test in test_add_project" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_add_project - 2016.07.21 at 21h 00m 47s.xml">
-      <configuration name="py.test in test_add_project" configurationId="tests" />
+    <history-entry file="py_test_in_test - 2016.07.21 at 21h 35m 31s.xml">
+      <configuration name="py.test in test" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_test_add_project - 2016.07.21 at 21h 05m 45s.xml">
       <configuration name="py.test in test_add_project" configurationId="tests" />
@@ -1429,17 +594,20 @@
     <history-entry file="py_test_in_test_add_project - 2016.07.21 at 21h 15m 48s.xml">
       <configuration name="py.test in test_add_project" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_test_add_project - 2016.07.21 at 21h 34m 07s.xml">
+      <configuration name="py.test in test_add_project" configurationId="tests" />
+    </history-entry>
     <history-entry file="py_test_in_test_delete_project - 2016.07.21 at 21h 26m 37s.xml">
       <configuration name="py.test in test_delete_project" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_login - 2016.07.21 at 15h 53m 49s.xml">
-      <configuration name="py.test in test_login" configurationId="tests" />
+    <history-entry file="py_test_in_test_delete_project - 2016.07.21 at 21h 32m 55s.xml">
+      <configuration name="py.test in test_delete_project" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_login_py - 2016.07.21 at 15h 47m 07s.xml">
-      <configuration name="py.test in test_login.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_delete_project - 2016.07.21 at 21h 33m 44s.xml">
+      <configuration name="py.test in test_delete_project" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_login_py - 2016.07.21 at 15h 47m 34s.xml">
-      <configuration name="py.test in test_login.py" configurationId="tests" />
+    <history-entry file="py_test_in_tests_py - 2016.07.21 at 21h 36m 07s.xml">
+      <configuration name="py.test in tests.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -1623,14 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
@@ -1651,20 +811,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generator/project.py">
+    <entry file="file://$PROJECT_DIR$/test/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="272">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/tests.py">
+    <entry file="file://$PROJECT_DIR$/data/projects.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator/project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>

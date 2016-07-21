@@ -27,7 +27,7 @@ def random_string(prefix, maxlen):
     return prefix + "".join([random.choice(char) for i in range(random.randrange(maxlen))])
 
 random_data = [
-    Project(name=random_string("name", 10), description=random_string("header", 10))
+    Project(name=random_string("name", 20), description=random_string("description", 20))
     for i in range(number)
 ]
 
