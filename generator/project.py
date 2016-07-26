@@ -13,7 +13,7 @@ except getopt.GetoptError as err:
     getopt.usage()
     sys.exit(2)
 
-number = 2
+number = 1
 file = "data/projects.json"
 
 for o, a in opts:

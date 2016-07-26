@@ -3,6 +3,7 @@ import os.path
 import json
 import importlib
 import jsonpickle
+import ftputil
 from fixture.application import Application
 from fixture.orm import ORMFixture
 
@@ -16,15 +17,41 @@ def load_config(file):
             conf = json.load(json_file)
     return conf
 
+@pytest.fixture(scope="session")
+def config(request):
+    return load_config(request.config.getoption("--config"))
+
 @pytest.fixture
-def app(request):
+def app(request, config):
     global fixture
     browser = request.config.getoption("--browser")
-    web_conf = load_config(request.config.getoption("--config"))['web']
     if fixture is None or not fixture.is_valid():
-        fixture = Application(browser=browser, baseURL=web_conf["baseURL"])
-    fixture.session.ensure_login(username=web_conf["username"], password=web_conf["password"])
+        fixture = Application(browser=browser, config=config)
+    fixture.session.ensure_login(username=config['web']["username"], password=config['web']["password"])
     return fixture
+
+
+@pytest.fixture(scope="session", autouse=True)
+def configure_server(request, config):
+    install_server_configuration(config['ftp']['host'], config['ftp']['username'], config['ftp']['password'])
+    def fin():
+        restore_server_configuration(config['ftp']['host'], config['ftp']['username'], config['ftp']['password'])
+    request.addfinalizer(fin)
+
+def install_server_configuration(host, username, password):
+    with ftputil.FTPHost(host, username, password) as remote:
+        if remote.path.isfile("config_inc.php.bak"):
+            remote.remove("config_inc.php.bak")
+        if remote.path.isfile('config_inc.php'):
+            remote.rename('config_inc.php', 'config_inc.php.bak')
+        remote.upload(os.path.join(os.path.dirname(__file__), 'resources/config_inc.php'), 'config_inc.php' )
+
+def restore_server_configuration(host, username, password):
+    with ftputil.FTPHost(host, username, password) as remote:
+        if remote.path.isfile("config_inc.php.bak"):
+            if remote.path.isfile('config_inc.php'):
+                remote.remove("config_inc.php")
+            remote.rename('config_inc.php.bak', 'config_inc.php')
 
 @pytest.fixture(scope="session", autouse=True)
 def stop(request):
@@ -59,9 +86,3 @@ def load_from_module(module):
 def load_from_json(json):
     with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "data/%s.json" % json)) as file:
         return jsonpickle.decode(file.read())
-
-
-
-
-
-
